@@ -26,7 +26,5 @@
         @apply cursor-pointer
     }
 
-    button {
-        @apply shadow-xl shadow-gray-500 rounded-xl 
-    }
+    
 }
